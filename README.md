@@ -62,7 +62,7 @@ git clone https://github.com/leobrda/conversor_moeda.git
  
 4. Rodar projeto
    * Pycharm - Run ou 'Ctrl+Shift+F10'
-   * VsCode - Abrir o terminal e digitar python Código.py
+   * VsCode - Abrir o terminal e digitar python main.py
 
 
 
